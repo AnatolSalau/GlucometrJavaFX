@@ -1,0 +1,33 @@
+<jwrapper>
+    <BuildOutputFolder>D:\IdeaProject\glucometrJavaFX\JWrapperBuild</BuildOutputFolder>
+    <BundleName>GLUCOREADER</BundleName>
+    <SplashPNG>
+        C:\Users\User\AppData\Roaming\JWrapper-JWrapperApp\JWrapper-JWrapperApp-00069494495-complete\resources\jwlogo256.png
+    </SplashPNG>
+    <BundleLogoPNG>
+        C:\Users\User\AppData\Roaming\JWrapper-JWrapperApp\JWrapper-JWrapperApp-00069494495-complete\resources\jwlogo256.png
+    </BundleLogoPNG>
+    <InstallType>CurrentUser</InstallType>
+    <App>
+        <Name>GLUCOREADER</Name>
+        <LogoPNG>D:\IdeaProject\glucometrJavaFX\src\main\resources\images\icon.png</LogoPNG>
+        <MainClass>com.work.MainApp</MainClass>
+    </App>
+    <SupportedLanguages>en</SupportedLanguages>
+    <Windows32JRE>D:\IdeaProject\glucometrJavaFX\jwrapperJREs\win32\jre1.8.0_162</Windows32JRE>
+    <Windows64JRE>D:\IdeaProject\glucometrJavaFX\jwrapperJREs\win64\jre1.8.0_162</Windows64JRE>
+    <Linux32JRE>D:\IdeaProject\glucometrJavaFX\jwrapperJREs\linux\jre1.8.0_162</Linux32JRE>
+    <Linux64JRE>D:\IdeaProject\glucometrJavaFX\jwrapperJREs\linuxx64\jre1.8.0_162</Linux64JRE>
+    <Mac64JRE>D:\IdeaProject\glucometrJavaFX\jwrapperJREs\macos64\jre1.8.0_162.jre</Mac64JRE>
+    <SkipLinuxARM32>true</SkipLinuxARM32>
+    <NoStripJREs>true</NoStripJREs>
+    <Pack200Effort>0</Pack200Effort>
+    <WindowsElevation>None</WindowsElevation>
+    <WindowsElevationUiAccess>true</WindowsElevationUiAccess>
+    <File classpath='yes'>D:\IdeaProject\glucometrJavaFX\target\glucometrJavaFX-1.0-SNAPSHOT.jar</File>
+    <JvmOptions>
+    </JvmOptions>
+    <!-- IMPORTANT place custom content BELOW this comment for compatibility with JW App -->
+
+
+</jwrapper>

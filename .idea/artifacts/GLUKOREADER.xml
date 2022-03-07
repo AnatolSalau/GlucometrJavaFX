@@ -1,0 +1,28 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="GLUKOREADER">
+    <output-path>$PROJECT_DIR$/out/artifacts/GLUKOREADER</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="com.work.MainApp" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="GLUCOREADER" />
+        <option name="vendor" value="Delfidia ltd." />
+        <option name="version" value="0.0.0.1" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="glucometrJavaFX.jar">
+        <element id="module-output" name="glucometrJavaFX" />
+      </element>
+      <element id="library" level="project" name="Maven: com.fazecast:jSerialComm:2.5.2" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:12.0.1" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:win:12.0.1" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:12.0.1" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:win:12.0.1" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:12.0.1" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:win:12.0.1" />
+    </root>
+  </artifact>
+</component>

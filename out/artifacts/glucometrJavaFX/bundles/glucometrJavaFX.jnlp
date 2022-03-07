@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="glucometrJavaFX.jnlp">
+    <information>
+        <title>GLUKOREADER</title>
+        <vendor>Unknown</vendor>
+        <description>glucometrJavaFX</description>
+        <offline-allowed/>
+    </information>
+    <resources>
+        <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+        <jar href="commons-codec-1.9.jar" size="263965" download="eager"/>
+        <jar href="glucometrJavaFX.jar" size="270096" download="eager"/>
+        <jar href="jSerialComm-2.5.2.jar" size="379549" download="eager"/>
+        <jar href="javafx-base-12.0.1-win.jar" size="744627" download="eager"/>
+        <jar href="javafx-base-12.0.1.jar" size="302" download="eager"/>
+        <jar href="javafx-controls-12.0.1-win.jar" size="2508234" download="eager"/>
+        <jar href="javafx-controls-12.0.1.jar" size="306" download="eager"/>
+        <jar href="javafx-graphics-12.0.1-win.jar" size="6009067" download="eager"/>
+        <jar href="javafx-graphics-12.0.1.jar" size="306" download="eager"/>
+    </resources>
+    <jfx:javafx-desc width="600" height="400" main-class="com.work.MainApp" name="glucometrJavaFX"/>
+    <update check="background"/>
+</jnlp>
